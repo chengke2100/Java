@@ -6,5 +6,9 @@ public class TestGit {
 		System.out.println("hello GitHub");
 		System.err.println("ahsa");
 	}
+	
+	public void test() {
+		System.out.println(111);
+	}
 
 }
